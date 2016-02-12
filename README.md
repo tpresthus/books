@@ -7,6 +7,7 @@ These books are aimed at developers who are not very familiar with software craf
 
  -  **Clean Code: A Handbook of Agile Software Craftsmanship** by Robert C. Martin (ISBN 978-0132350884)
  -  **Refactoring: Improving the Design of Existing Code** by Martin Fowler (ISBN 978-0201485677)
+ -  **Growing Object-Oriented Software, Guided by Tests** by Steve Freeman and Nat Pryce (ISBN 978-0321503626)
  
 ## Modelling
 
