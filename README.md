@@ -15,6 +15,7 @@ It's common for developers, when reading about craftmanship, to start applying n
 
  -  **Design Patterns** by Erich Gamma et al (ISBN 978-0-201-63361-0)
  -  **Head First Design Patterns** by Eric Freeman et al (ISBN 000-0596007124)
+ -  **Patterns of Enterprise Application Architecture** by Martin Fowler (ISBN 007-6092019909)
 
 ## Applying your new-found knowledge to the real world
 
