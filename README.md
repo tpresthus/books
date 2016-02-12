@@ -16,6 +16,12 @@ It's common for developers, when reading about craftmanship, to start applying n
  -  **Design Patterns** by Erich Gamma et al (ISBN 978-0-201-63361-0)
  -  **Head First Design Patterns** by Eric Freeman et al (ISBN 000-0596007124)
 
+## Applying your new-found knowledge to the real world
+
+Now that you've read some of the abovementioned books, you might feel saddened by the fact that you're working on a big legacy system where there's little room (or even seemingly impossible) to apply any of the principles you've learned. Fear not! Michael Feathers wrote a great book on how we can deal with Big balls of mud.
+
+ -  **Working Effectively with Legacy Code** by Michael Feathers (ISBN 007-6092025986)
+
 ## Modelling
 
 When you've accomplished a certain grasp of craftmanship, you might start to think about software development from another perspective. You're certainly not alone in this. Eric Evans wrote the book "Domain-driven Design: Tackling complexity in the heart of software" back in 2003. For me this was a real eye-opener, as it highlights the problems caused by the industry-standard approach to developing software: I.e. development and business being two different things. The truth is that software is valuable to the business, and should help the business in adding more value. This can be achived using a plethora of tactics and strategies.
